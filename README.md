@@ -1,5 +1,5 @@
 # 💫 Hi I'm Vishvam:
-🔭 Empowering communities via open-source<br>🌱 I’m currently learning -> JAVA 
+🔭 Empowering communities via open-source<br>🌱 I’m currently learning -> C++
 
 
 ## 🌐 Socials:
