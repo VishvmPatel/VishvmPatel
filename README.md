@@ -25,7 +25,7 @@
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  
 
 ## 📌 Current Focus  
-- 📊 **Strengthening DSA skills** (Solving problems daily on LeetCode & CodeChef)  
+- 📊 **Strengthening DSA skills** (Solving problems daily on LeetCode)  
 - 🛒 **Developing an E-Commerce Website** (Using MERN Stack)  
 - 🤝 **Contributing to Open-Source Projects**  
 
